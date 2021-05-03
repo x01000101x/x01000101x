@@ -10,5 +10,5 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
 <p align="center">
-  <img src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> • 
+  <img src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
 </p>
