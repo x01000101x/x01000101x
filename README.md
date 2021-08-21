@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x01000101x)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi, I'm Leonard 👋
 
 - 🔭 I’m currently working on school works and competitions
