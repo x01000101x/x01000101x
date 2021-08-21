@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x01000101x)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x1000101x)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi, I'm Leonard 👋
 
@@ -11,7 +12,7 @@
 - ⚡ Fun fact: I like learning new things
 
 <img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <p align="center">
