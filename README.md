@@ -6,7 +6,7 @@
 - 🤔 I’m looking for an IT Partner
 - 💬 Ask me anything related to IT
 - 📫 How to reach me: [Instagram - @leodamaniik](https://www.instagram.com/leodamaniik/)
-- ⚡ Fun fact: I like learning
+- ⚡ Fun fact: I like learning new things
 
 <img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
 <p align="center">
