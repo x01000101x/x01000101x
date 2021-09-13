@@ -1,6 +1,6 @@
 ### Hi, I'm Leonard 👋
 
-- 🔭 I’m currently working on school works and competitions
+- 🔭 I’m currently working on school works and competitio
 - 🌱 I’m currently learning Ruby 
 - 👯 I’m looking to collaborate on Web projects
 - 🤔 I’m looking for an IT Partner
