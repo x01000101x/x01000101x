@@ -1,7 +1,7 @@
 ### Hi, I'm Leonard 👋
 
 - 🔭 I’m currently working on school works and competitions
-- 🌱 I’m currently learning Ruby 
+- 🌱 I’m currently learning Rub
 - 👯 I’m looking to collaborate on Web projects
 - 🤔 I’m looking for an IT Partner
 - 💬 Ask me anything related to IT
