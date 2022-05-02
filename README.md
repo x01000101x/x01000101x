@@ -1,4 +1,4 @@
-### Hi, I'm Leonard 👋
+### Hello, I'm Leonard 👋
 
 - 🔭 I’m currently a Chief Marketing Officer/Backend Developer @ StartCode and a high school student
 - 🌱 I’m currently learning Machine Learning
