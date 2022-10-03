@@ -11,6 +11,11 @@
 
 
 
+
+
+
 <p align="center">
+  <center>
   <img src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
+  </center>
 </p>
