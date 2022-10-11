@@ -19,7 +19,7 @@
   </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&theme=synthwave" alt="Top Lang"> &nbsp;
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0100010x&theme=cobalt&layout=compact&langs_count=10" alt="x01000101x" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&theme=cobalt&layout=compact&langs_count=10" alt="x01000101x" />
   </p>  
   
 <p align="center">
