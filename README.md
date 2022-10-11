@@ -10,7 +10,10 @@
 ---
 ### 📊 My Github Stats
 
+<p align="left">
 <img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
+  </p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&theme=tokyonight" alt="Top Lang"></p>
 
 <p align="center">
   <img align="center" src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
@@ -22,7 +25,7 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight" alt="Top Lang">
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
