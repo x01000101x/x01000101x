@@ -9,13 +9,10 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
 
-
-
-
-
-
 <p align="center">
   <center>
   <img src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
   </center>
 </p>
+
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
