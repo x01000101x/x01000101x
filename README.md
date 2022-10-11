@@ -13,14 +13,15 @@
 
 <center>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&theme=synthwave" alt="Top Lang"> &nbsp;
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=x01000101x&theme=tokyonight" />
+  &nbsp;
   <img align="center" src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
   </p>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=cobalt&layout=compact&langs_count=10" alt="x01000101x" /> &nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=x01000101x&theme=tokyonight" />
-  </p>
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&theme=synthwave" alt="Top Lang"> &nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x0100010x&theme=cobalt&layout=compact&langs_count=10" alt="x01000101x" />
+  </p>  
+  
 <p align="center">
   <img align="center" src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
 </p>
