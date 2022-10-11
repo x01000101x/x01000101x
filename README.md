@@ -12,9 +12,9 @@
 
 
 <center>
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight&layout=compact&langs_count=10" alt="kigamekun" /></p>
-<p align="center">
-<img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kigamekun&theme=tokyonight&layout=compact&langs_count=10" alt="kigamekun" /></p>
+<p>
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
   </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x01000101x&theme=tokyonight" alt="Top Lang"></p>
 
