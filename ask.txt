@@ -1,0 +1,5 @@
+Hi, nice to meet you.
+May I know what is your programming language use for backend development?
+And what kind of database you are using?
+
+Thank you
