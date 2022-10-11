@@ -7,17 +7,13 @@
 - 📫 How to reach me: [Instagram - @leodamaniik](https://www.instagram.com/leodamaniik/)
 - ⚡ Fun fact: I love JDM cars
 
-#
-
 ---
 ### 📊 My Github Stats
 
 <img src = "https://github-readme-stats.vercel.app/api?username=x01000101x&&show_icons=true&title_color=1E90FF&icon_color=8458B3&text_color=008000&bg_color=151515">
 
 <p align="center">
-  <center>
-  <img align-"cebter" src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
-  </center>
+  <img align="center" src="https://gpvc.arturio.dev/x01000101x" alt="profile views"> 
 </p>
 <br />
 
