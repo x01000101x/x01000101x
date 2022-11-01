@@ -5,7 +5,7 @@
 - 👯 I’m looking for a partner who wants to collaborate on IT projects
 - 💬 Ask me anything 
 - 📫 How to reach me: [Instagram - @leodamaniik](https://www.instagram.com/leodamaniik/)
-- ⚡ Fun fact: I love JDM cars
+- ⚡ Fun fact: I <3 JDM cars
 
 ---
 ### 📊 My Github Stats
