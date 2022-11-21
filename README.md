@@ -1,6 +1,6 @@
 ### Hello, I'm Leonard 👋
 
-- 🔭 I’m currently a Chief Marketing Officer/Backend Developer @ StartCode
+- 🔭 I’m currently a Backend Developer @ BRI
 - 🌱 I’m currently learning Android Dev
 - 👯 I’m looking for a partner who wants to collaborate on IT projects
 - 💬 Ask me anything 
