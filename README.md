@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Go
 - 👯 I’m looking for a partner who wants to collaborate on IT projects
 - 💬 Ask me anything 
-- 📫 How to reach me: [Instagram - @leodamaniik](https://www.instagram.com/leodamaniik/)
+- 📫 How to reach me: [Instagram - @leodamaniik](https://www.instagram.com/leodamanik_/)
 - ⚡ Fun fact: I <3 JDM cars
 
 ---
